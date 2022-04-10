@@ -1,0 +1,1 @@
+# Recipee is a Front-End based website and mini project which acts as a cookbook. It uses the ThemeAldb.com api for data fetching and includes modules such as Random Meal generator, Favorite Meals, Add & Remove Favourites and the Search Option.
